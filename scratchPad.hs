@@ -200,24 +200,3 @@ fooHelper2 xs ys n
     | otherwise = []
 
 foo2 xs ys = fooHelper2 xs ys 1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
